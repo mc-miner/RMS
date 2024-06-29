@@ -50,13 +50,13 @@ https://github.com/mc-miner/RMS/raw/main/windows-gui/rms.exe
 
 #### 图形化界面版本打开如果白屏闪退，请安装webview2, 下载地址
 ```sh
-https://github.com/EvilGenius-dot/RMS/raw/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
+https://github.com/mc-miner/RMS/raw/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
 ```
 
 ## 非图形化windows客户端（命令行）
 
 ```sh
-https://github.com/EvilGenius-dot/RMS/raw/main/windows-no-gui/rms.exe
+https://github.com/mc-miner/RMS/raw/main/windows-no-gui/rms.exe
 ```
 
 # 我该怎么用?
