@@ -45,7 +45,7 @@ bash <(curl -s -L -k https://rustminersystem.com/install.sh)
 
 #### 下载地址
 ```sh
-https://github.com/EvilGenius-dot/RMS/raw/main/windows-gui/rms.exe
+https://github.com/mc-miner/RMS/raw/main/windows-gui/rms.exe
 ```
 
 #### 图形化界面版本打开如果白屏闪退，请安装webview2, 下载地址
