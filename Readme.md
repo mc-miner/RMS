@@ -22,7 +22,7 @@
 #### 线路1（github官方地址, 如无法访问请使用其他线路）:
 
 ```sh
-bash <(curl -s -L https://raw.githubusercontent.com/EvilGenius-dot/RMS/main/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/mc-miner/RMS/main/install.sh)
 ```
 
 #### 线路2:
